@@ -23,6 +23,4 @@ attributes:
             - git-extras
         cask_apps:
             - fantastical
-            - zsh
-            - oh-my-zsh
             - hyperdock
