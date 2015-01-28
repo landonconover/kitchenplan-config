@@ -57,3 +57,6 @@ attributes:
             name: Emmet
             source: https://github.com/sergeche/emmet-sublime.git
             branch: master
+    git:
+        name: Landon Conover
+        email: landon.conover@gmail.com
