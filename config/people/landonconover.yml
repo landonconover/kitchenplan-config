@@ -57,6 +57,8 @@ attributes:
             name: Emmet
             source: https://github.com/sergeche/emmet-sublime.git
             branch: master
+    sublime_text:
+        color_scheme: Packages/Theme - Spacegray/base16-eighties.dark.tmTheme
     git:
         name: Landon Conover
         email: landon.conover@gmail.com
