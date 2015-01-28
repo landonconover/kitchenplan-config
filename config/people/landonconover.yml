@@ -15,6 +15,7 @@ recipes:
         - osxdefaults::dock_remove_the_auto-hiding_dock_delay
         - osxdefaults::menu_add_battery_percentage
         - osxdefaults::menu_show_clock_with_date
+        - applications::sublime_text_3
 attributes:
     osxdefaults:
         computername: JARVIS
@@ -24,3 +25,28 @@ attributes:
         cask_apps:
             - fantastical
             - hyperdock
+    sublime_text_packages:
+        -
+            name: SideBarEnhancements
+            source: https://github.com/titoBouzout/SideBarEnhancements
+            branch: st3
+        -
+            name: GitGutter
+            source: https://github.com/jisaacks/GitGutter.git
+            branch: master
+        -
+            name: SCSS
+            source: https://github.com/MarioRicalde/SCSS.tmbundle.git
+            branch: SublimeText2
+        -
+            name: BracketHighlighter
+            source: https://github.com/facelessuser/BracketHighlighter.git
+            branch: ST3
+        -
+            name: Theme - Spacegray
+            source: git@github.com:kkga/spacegray.git
+            branch: master
+        -
+            name: Emmet
+            source: git@github.com:sergeche/emmet-sublime.git
+            branch: master
