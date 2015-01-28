@@ -25,6 +25,13 @@ attributes:
         cask_apps:
             - fantastical
             - hyperdock
+            - dropbox
+            - evernote
+            - spotify
+            - mou
+            - macfusion
+            - firefox
+            - mongodb
     sublime_text_packages:
         -
             name: SideBarEnhancements
@@ -44,9 +51,9 @@ attributes:
             branch: ST3
         -
             name: Theme - Spacegray
-            source: git@github.com:kkga/spacegray.git
+            source: https://github.com/kkga/spacegray.git
             branch: master
         -
             name: Emmet
-            source: git@github.com:sergeche/emmet-sublime.git
+            source: https://github.com/sergeche/emmet-sublime.git
             branch: master
