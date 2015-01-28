@@ -63,7 +63,7 @@ attributes:
             - macfusion
             - firefox
             - parallels-desktop
-            - navicat-for-mysql
+            #- navicat-for-mysql
             - steam
     sublime_text_packages:
         -
