@@ -15,7 +15,6 @@ recipes:
         - osxdefaults::dock_remove_the_auto-hiding_dock_delay
         - osxdefaults::menu_add_battery_percentage
         - osxdefaults::menu_show_clock_with_date
-        - osxdefaults::use_dark_menu_bar_and_dock
 attributes:
     osxdefaults:
         computername: JARVIS
