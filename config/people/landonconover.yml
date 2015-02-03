@@ -57,6 +57,7 @@ attributes:
             - fantastical
             - hyperdock
             - dropbox
+            - google-drive
             - evernote
             - spotify
             - mou
@@ -92,7 +93,7 @@ attributes:
             branch: master
     sublime_text:
         color_scheme: Packages/Theme - Spacegray/base16-eighties.dark.tmTheme
-        preferences: 
+        preferences:
             theme: Spacegray Eighties.sublime-theme
     git:
         name: Landon Conover
