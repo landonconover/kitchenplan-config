@@ -76,10 +76,6 @@ attributes:
             source: https://github.com/MarioRicalde/SCSS.tmbundle.git
             branch: SublimeText2
         -
-            name: BracketHighlighter
-            source: https://github.com/facelessuser/BracketHighlighter.git
-            branch: ST3
-        -
             name: Theme - Spacegray
             source: https://github.com/kkga/spacegray.git
             branch: master
