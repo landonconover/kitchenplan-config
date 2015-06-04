@@ -67,6 +67,7 @@ attributes:
             #- navicat-for-mysql
             - steam
             - vmware-fusion
+            - tableau
     sublime_text_packages:
         -
             name: GitGutter
