@@ -61,9 +61,9 @@ attributes:
             - evernote
             - spotify
             - mou
-            - macfusion
+            #- macfusion
             - firefox
-            - parallels-desktop
+            #- parallels-desktop
             #- navicat-for-mysql
             - steam
     sublime_text_packages:
