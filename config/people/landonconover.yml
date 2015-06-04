@@ -69,7 +69,7 @@ attributes:
     sublime_text_packages:
         -
             name: SideBarEnhancements
-            source: https://github.com/titoBouzout/SideBarEnhancements
+            source: https://github.com/titoBouzout/SideBarEnhancements.git
             branch: st3
         -
             name: GitGutter
