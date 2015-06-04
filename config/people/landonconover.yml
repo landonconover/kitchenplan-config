@@ -42,7 +42,7 @@ recipes:
         - applications::launchrocket
 attributes:
     osxdefaults:
-        computername: JARVIS
+        computername: BigJARVIS
     authorization:
         sudo:
             users:
