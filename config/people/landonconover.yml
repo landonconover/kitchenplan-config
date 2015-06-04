@@ -67,10 +67,10 @@ attributes:
             #- navicat-for-mysql
             - steam
     sublime_text_packages:
-        -
-            name: SideBarEnhancements
-            source: https://github.com/titoBouzout/SideBarEnhancements.git
-            branch: st3
+        #-
+        #    name: SideBarEnhancements
+        #    source: https://github.com/titoBouzout/SideBarEnhancements.git
+        #    branch: st3
         -
             name: GitGutter
             source: https://github.com/jisaacks/GitGutter.git
